@@ -33,12 +33,12 @@
                                                 <div class="form-row">
                                                     <div class="form-group col-md-6">
                                                         <label for="txt_usuario">USUARIO:</label>
-                                                        <input type="text" class="form-control" name="txt_usuario" id="txt_usuario" maxlength="15" aria_describedby="txt_user_help" required/>
+                                                        <input type="text" class="form-control" name="txt_usuario" id="txt_usuario" maxlength="15" aria_describedby="txt_user_help" required />
                                                         <small id="txt_user_help" class="form-text text_muted">El usuario es obligatorio</small>
                                                     </div>
                                                     <div class="form-group col-md-6">
                                                         <label for="txt_password">CONTRASEÑA:</label>
-                                                        <input type="password" class="form-control" name="txt_password" id="txt_password" maxlength="15" aria_describedby="txt_password_help" required/>
+                                                        <input type="password" class="form-control" name="txt_password" id="txt_password" maxlength="15" aria_describedby="txt_password_help" required />
                                                         <small id="txt_password_help" class="form-text text_muted">La contraseña es obligatoria</small>
                                                     </div>
                                                 </div>

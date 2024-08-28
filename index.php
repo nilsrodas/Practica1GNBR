@@ -17,7 +17,7 @@
                     <div class="col">
                         <div class="align-items-center">
                             <p>Graham Nils Butter Rodas</p>
-                            <form name="frm_login" id="frm_login"action="core/process.php">
+                            <form name="frm_login" id="frm_login" action="core/process.php">
                                 <table>
                                     <thead>
                                         <tr>

@@ -21,7 +21,7 @@
                                 <table>
                                     <thead>
                                         <tr>
-                                            <th class="parrafo centrado">Inicio de Sesión</th>
+                                            <th class="parrafo_centrado">Inicio de Sesión</th>
                                         </tr>
                                         <tr>
                                             <th>&nbsp;</th>

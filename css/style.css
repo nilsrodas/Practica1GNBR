@@ -14,7 +14,7 @@ body{
 
 }
 .contenedor{
-    background: url("../media/image/background.png") no repeat;
+    background: url("../media/image/background.png") no_repeat;
     background-size: contain;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: auto;
